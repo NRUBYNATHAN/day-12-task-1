@@ -1,0 +1,36 @@
+body{
+    background-image:url('bck.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.heading{
+    text-align: center;
+    color:black;
+    background-color: aliceblue;
+    width: 100%;
+    font-size: 40px;
+}
+.card1,.card2,.card3,.card4,.card5,.card6{
+    margin: 50px;
+    text-align: center;
+    font-size: 30px;
+    background-color: none;
+}
+.card-heads1,.card-heads2,.card-heads3,.card-heads4,.card-heads5,.card-heads6{
+    font-size:20px;
+    background-color:hwb(193 5% 9%);
+}
+.card-bodys1,.card-bodys2,.card-bodys3,.card-bodys4,.card-bodys5,.card-bodys6{
+    font-size: 20px;
+    background-image: url("cov.jpg");
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+    color:rgb(238, 235, 235);
+}
+
+.card-footers1,.card-footers2,.card-footers3,.card-footers4,.card-footers5,.card-footers6{
+    background-color:hwb(193 5% 9%);
+}
